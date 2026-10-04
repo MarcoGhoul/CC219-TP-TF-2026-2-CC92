@@ -1,0 +1,21 @@
+# Entornos y archivos temporales de Python/Jupyter
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Configuración local y credenciales
+.env
+.env.*
+
+# Datos locales: conservar las carpetas y la documentación original
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+data/processed/*.parquet
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

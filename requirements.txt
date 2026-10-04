@@ -1,0 +1,7 @@
+# Dependencias previstas para desarrollar las actividades del Hito 1.
+# Los notebooks actuales contienen únicamente instrucciones en Markdown.
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
